@@ -9,7 +9,7 @@ Route and coordinate topic exploration, not a fixed article template. The root S
 
 ## Invocation
 
-Explicit natural-language aliases: `Ideo Plan`, `Plan topic`, `Topic plan`, `題材企劃`, `規劃題材`, `討論題材`, `想題材`. These may be followed by a task.
+Explicit natural-language aliases: `Ideo Plan`, `Plan topic`, `Topic plan`, `題材企劃`, `規劃題材`, `討論題材`, `想題材`, `想題目`, `討論題目`. These may be followed by a task.
 
 ## Priority
 Explicit user instructions and existing authorization > factual integrity and uncertainty > user intent and collaboration > project-specific requirements > this skill's default workflow. A direction proposed by the assistant is not automatically the user's intent.

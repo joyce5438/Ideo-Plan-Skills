@@ -23,4 +23,4 @@ Claude Code：
 
 ## Invocation aliases
 
-`Ideo Plan` · `Plan topic` · `Topic plan` · `題材企劃` · `規劃題材` · `討論題材` · `想題材`
+`Ideo Plan` · `Plan topic` · `Topic plan` · `題材企劃` · `規劃題材` · `討論題材` · `想題材` · `想題目` · `討論題目`
