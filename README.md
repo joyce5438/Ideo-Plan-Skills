@@ -29,3 +29,7 @@ Claude Code:
 ```
 
 Updates: `codex plugin marketplace upgrade ideo-plan` or `/plugin marketplace update ideo-plan`.
+
+## Invocation aliases
+
+`Ideo Plan` · `Plan topic` · `Topic plan` · `題材企劃` · `規劃題材` · `討論題材` · `想題材`
