@@ -1,6 +1,6 @@
 # Human guide
 
-Ideo Topic Editor explores a subject before substantial research or long-form writing. It asks what is interesting about this subject, what credible evidence exists, and which questions could matter to readers. It presents provisional directions, not finished article templates.
+Ideo Plan explores a subject before substantial research or long-form writing. It asks what is interesting about this subject, what credible evidence exists, and which questions could matter to readers. It presents provisional directions, not finished article templates.
 
 For broad subjects it gathers proportionate evidence, including relevant local-language sources, then proposes distinct directions with core questions, approximate structures, evidence links and gaps. It invites the user to select, combine, revise or supply a new angle. A clear, explicitly authorized direction can proceed without a redundant pause. Explicit requests to discuss before writing always govern.
 

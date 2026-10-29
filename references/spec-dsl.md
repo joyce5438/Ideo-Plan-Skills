@@ -1,4 +1,4 @@
-# Ideo Topic Editor — Execution Spec v1.0
+# Ideo Plan — Execution Spec v1.0
 
 ```text
 ::OBJECTIVE{topic_discovery_and_planning}
