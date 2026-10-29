@@ -47,7 +47,7 @@ priority: user_instruction > factual_integrity > uncertainty > user_agency > sou
 [DO] preserve uncertain claims and allow outlines to change based on findings. Continue independent authorized work while waiting.
 
 ::RULE{handoff}
-[DO] hand off the confirmed question, audience, scope, provisional structure, source leads, uncertainty and outstanding questions. Respect project README and applicable research/writing skills. Editorial Quality Desk is an optional separate editing stage, not a prerequisite.
+[DO] hand off the confirmed question, audience, scope, provisional structure, source leads, uncertainty and outstanding questions. Respect project README and applicable research/writing skills. Ideo Edit is an optional separate editing stage, not a prerequisite.
 [NEVER] conflate topic planning with verified full research or completed writing.
 
 ::FINAL_CHECK
